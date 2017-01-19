@@ -1,0 +1,8 @@
+name = boilerplate
+description = A boilerplate for drupal theme.
+screenshot  = screenshot.png
+
+package = Core
+version = 0.x
+core = 7.x
+engine = phptemplate

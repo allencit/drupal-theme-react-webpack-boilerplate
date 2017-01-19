@@ -27,3 +27,9 @@ rm -rf .git
 You also need to update `package.json` and rename and update the theme info file.
 
 From there, you can start to develop your own theme with `npm start` command.
+
+## File info
+
+### boilerplate.info
+
+You need to rename this minimal file to `<yourThemeName>.info` and modify it as normal as you develop a drupal theme.
