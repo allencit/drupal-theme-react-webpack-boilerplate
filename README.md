@@ -33,3 +33,15 @@ From there, you can start to develop your own theme with `npm start` command.
 ### boilerplate.info
 
 You need to rename this minimal file to `<yourThemeName>.info` and modify it as normal as you develop a drupal theme.
+
+### webpack.config.entry.js
+
+webpack entry file.
+
+### webpack.config.js
+
+webpack config file for develop.
+
+### webpack.production.config.js
+
+webpack config file for production.
